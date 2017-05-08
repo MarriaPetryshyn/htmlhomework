@@ -1,2 +1,2 @@
-https://MarriaPetryshyn.github.io/htmlhomework
 My html homework
+http://MarriaPetryshyn.github.io/htmlhomework
