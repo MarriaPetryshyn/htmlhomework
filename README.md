@@ -1,2 +1,2 @@
-# htmlhomework.github.io
+https://MarriaPetryshyn.github.io/htmlhomework
 My html homework
